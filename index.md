@@ -74,7 +74,7 @@ page_sections:
     article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: 深圳市旅拍云文化传播有限公司
 
 ---
 foo bar
